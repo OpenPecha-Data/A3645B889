@@ -1,0 +1,18 @@
+segment_sources:
+  I21829600:
+    type: origin_type
+    relation: translation
+    language: sa
+  IA2110AF3:
+    type: origin_type
+    relation: translation
+    language: zh
+  I37F2D45C:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  8b8053fd99434a8599ad7f9c8950cad8:
+    I21829600: 3ebf5032927b468a93c1a8c26d1e29bf
+    IA2110AF3: 0cf81193ee65414183814e301e42d28d
+    I37F2D45C: 0dfb6e4c303147f68ad5b532e2d06433
